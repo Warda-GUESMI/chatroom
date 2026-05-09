@@ -1,0 +1,4 @@
+client_app
+server_app
+*.o
+*.a
